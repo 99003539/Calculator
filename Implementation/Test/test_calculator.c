@@ -1,5 +1,6 @@
 #include<interest.h>
 #include<leapyear.h>
+#include<prime.h>
 
 
 
@@ -19,6 +20,7 @@
 void test_interest_1(void);
 void test_interest_2(void);
 void test_leapyear(void);
+void test_prime(void);
 
 
 void setUp(){}
@@ -31,6 +33,7 @@ int main(){
     RUN_TEST(test_interest_2);
     RUN_TEST(test_leapyear_1);
     RUN_TEST(test_leapyear_2);
+    RUN_TEST(test_prime);
      
      
      
@@ -53,3 +56,28 @@ void test_leapyear_1(void){
 void test_leapyear_2(void){
 TEST_ASSERT_EQUAL(0,leapyear_test(2021));
 }
+void test_prime(void){
+     TEST_ASSERT_EQUAL(
+
+
+
+
+
+
+
+
+
+
+
+
+void test_prime(void)
+ {
+   CU_ASSERT(-1 == prime(5));
+   CU_ASSERT(1 == prime(4));
+ }
+
+
+
+
+
+
