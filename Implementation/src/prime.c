@@ -1,4 +1,4 @@
-#include <smart_calculator_operations.h>
+#include "prime.h"
 int isprime(int operand1);
 int prime(int operand1)
 {

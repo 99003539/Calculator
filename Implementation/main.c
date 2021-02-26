@@ -1,8 +1,8 @@
-#include<stdio.h>
-#include<interest.h>
-#include<leapyear.h>
-#include<average.h>
-#include<prime.h>
+#include "stdio.h"
+#include "interest.h"
+#include "leapyear.h"
+#include "average.h"
+#include "prime.h"
 
 int main(){
     int k, j=3;
@@ -24,7 +24,7 @@ int main(){
                 goto front;
             }
             case 2:
-            r = leapyear();
+            r = leapyear(year);
             if(r==0)
             {
                 break;
@@ -42,7 +42,7 @@ int main(){
             }
              
               case 4:
-            r = prime();  
+            r = prime(9);  
             if(r==0){
                 break;
             }
@@ -54,11 +54,7 @@ int main(){
             front: 
 
              printf("1 - Simple Interest Operation\n");
-
-
-
-             printf("2 - Leap year")
-
+             printf("2 - Leap year");
               printf("3 - average\n");
               printf("4 - prime\n");
              scanf("%d", &k);
@@ -79,12 +75,12 @@ int main(){
             r=leapyear(year);
             if(r==0)
             {   
-                printf("\n%d not a leap year");
+                printf("\n not a leap year");
                 break;
             }
             else
             {   
-                printf("\n%d is a leap year");
+                printf("\n is a leap year");
                 goto front;
             }
             case 3:             
@@ -97,7 +93,7 @@ int main(){
             }
                     
              case 4:
-            printf("\n\t %d \nEnter to continue");
+            printf("\n\t  \nEnter to continue");
             prime(operand1);
 
             __fpurge(stdin);
