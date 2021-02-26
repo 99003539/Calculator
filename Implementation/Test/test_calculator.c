@@ -29,7 +29,8 @@ int main(){
     UNITY_BEGIN();
      RUN_TEST(test_interest_1);
     RUN_TEST(test_interest_2);
-    RUN_TEST(test_leapyear);
+    RUN_TEST(test_leapyear_1);
+    RUN_TEST(test_leapyear_2);
      
      
      
@@ -42,7 +43,10 @@ int main(){
 void test_interest_2(void){
     TEST_ASSERT_EQUAL(780, interest_test(5000, 2, 7.8));
 }
-void test_leapyear(void){
+void test_leapyear_1(void){
     TEST_ASSERT_EQUAL(1,leapyear_test(2000));
-    TEST_ASSERT_EQUAL(0,leapyear_test(2020));
+    
+}
+void test_leapyear_2(void){
+TEST_ASSERT_EQUAL(0,leapyear_test(2021));
 }
