@@ -55,6 +55,10 @@ int main(){
 
              printf("1 - Simple Interest Operation\n");
 
+
+
+             printf("2 - Leap year")
+
               printf("3 - average\n");
               printf("4 - prime\n");
              scanf("%d", &k);
