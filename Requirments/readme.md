@@ -1,7 +1,7 @@
 COST AND AGE:
 
 The Calculator we know today were first invented in the 1960’s. The use of smart
-phones as calculator began in 1990’s.
+phones as calculator begun in 1990’s.
 
 Several computing machines were made long before the arrival of digital
 calculator’s and smart phones. The abacus, for example, was used in the ancient
