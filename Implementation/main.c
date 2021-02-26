@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<interest.h>
-
+#include<leapyear.h>
 
 int main(){
     int k, j=3;
-    int r;
+    int r,year;
     float r2;
     float r3;
     printf("Please select the number for the select function \n");
@@ -14,6 +14,15 @@ int main(){
             case 1:
             r = interest();
             if(r==0){
+                break;
+            }
+            else{
+                goto front;
+            }
+            case 2:
+            r = leapyear();
+            if(r==0)
+            {
                 break;
             }
             else{
@@ -42,5 +51,17 @@ int main(){
                 break;
             }
             else{
+                goto front;
+            }
+            case 2:
+            printf("Enter any year");
+            scanf("%d",&year);
+            r=leapyear(year);
+            if(r==0)
+            {
+                break;
+            }
+            else
+            {
                 goto front;
             }
