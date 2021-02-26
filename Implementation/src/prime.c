@@ -15,7 +15,7 @@ int isprime(int operand1)
     break;
   /* Return 1 for prime number */
   if(i>operand1/2)
-  return -1;
-  else
   return 1;
+  else
+  return -1;
 }
