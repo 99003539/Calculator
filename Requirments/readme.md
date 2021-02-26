@@ -32,7 +32,7 @@ Year Model Cost
 2020 Texas TI-30XS $18.
 DEFINING PRODUCT:
 
-The advanced scientific calculator performs various operations ranging from
+The advanced scientific calculator performs various types operations ranging from
 calculating the sum, difference, product, division, bitwise or, bitwise and & xor of
 two numbers to calculating the factorial, power, square root, sine, cosine, tan,prime of a number
 
