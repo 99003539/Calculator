@@ -19,7 +19,7 @@ functions. It was first introduced in 1972
 The SR-50 was Texas instruments first was the scientific pocket calculator included with
 Trigonometric & Logarithmic functions. It was introduced in 1974.
 
-Casio is a the major player in graphing calculator market. It was basically introduced in
+Casio is a the major player in the graphing calculator market. It was basically introduced in
 
     Notable features are its ability to graph functions and that it is
     programmable.
