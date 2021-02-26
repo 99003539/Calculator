@@ -16,7 +16,7 @@ The hp-34 was the Hewlett-Packard’s first pocket calculator and the world’s 
 scientific pocket calculator. A calculator with Trigonometric & Exponential
 functions. It was introduced in 1972
 
-The SR-50 was Texas instruments first scientific pocket calculator with
+The SR-50 was Texas instruments first the scientific pocket calculator with
 Trigonometric & Logarithmic functions. It was introduced in 1974.
 
 Casio is a major player in graphing calculator market. It was introduced in
