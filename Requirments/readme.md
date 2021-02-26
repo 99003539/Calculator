@@ -86,7 +86,7 @@ UML Activity Diagram for bitwise or:
  |
 =======
 **WWWWH**
-
+vfvsfd
 WHY:
 
 A machine is anything that reduces human effort. We use calculators so that we can find out answers to mathematical problems without using too much of our energy and time and also reducing our effort.
