@@ -147,7 +147,7 @@ The main objective of the calculator is to perform the different types of operat
 
 ABSTRACT
 
-The advanced scientific calculator performs various operations ranging from calculating the average of numbers,simple interest,finding the leap year,prime number.
+The advanced scientific calculator performs various types operations ranging from calculating the average of numbers,simple interest,finding the leap year,prime number.
 
 
 REQUIREMENTS
