@@ -58,10 +58,12 @@ int main(){
             scanf("%d",&year);
             r=leapyear(year);
             if(r==0)
-            {
+            {   
+                printf("\n%d not a leap year");
                 break;
             }
             else
-            {
+            {   
+                printf("\n%d is a leap year");
                 goto front;
             }
