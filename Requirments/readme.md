@@ -122,7 +122,7 @@ The main objective of the calculator is to perform the different types of operat
 - The speed of the calculator, it should give output within seconds.
 - The system functions need to be specified and work properly.
 - The precision of the calculator should be more.
-- The functions taking take input and process the output within nanoseconds.
+- The functions taking take input and provide the output within nanoseconds.
 
 **Requirement Mapping-**
 
