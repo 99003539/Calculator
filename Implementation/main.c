@@ -49,16 +49,9 @@ int main(){
             else{
                 goto front;
             }
-
-
-
-
-
-
       }
 
-
-             front: 
+            front: 
 
              printf("1 - Simple Interest Operation\n");
               printf("3 - average\n");
@@ -99,20 +92,19 @@ int main(){
             }
                     
              case 4:
-               printf("Enter the prime:");        
-               
-             
-                      
-                      
-                      
-                      
-                      
-                      
-                      
+            printf("\n\t %d \nEnter to continue");
+            prime(calculator_operand1));
+
+            __fpurge(stdin);
+            getchar();
+            if(r==0){
+                break;
+            }
+            else{
+                goto front;
+            } 
                       
     return 0;
-
-
 
     }
 }
