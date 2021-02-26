@@ -9,6 +9,10 @@ int main(){
     int r,year,operand1;
     float r2;
     float r3;
+    //printf("Please enter the number 1 \n");
+     //scanf("%f", &r2);
+     //printf("Please enter the number 2 \n");
+      //scanf("%f", &r3);
     printf("Please select the number for the select function \n");
      printf("1 - Simple Interest Operation\n");
     printf("3 - average\n");
@@ -24,7 +28,7 @@ int main(){
                 goto front;
             }
             case 2:
-            r = leapyear(year);
+            r = leapyear(r2);
             if(r==0)
             {
                 break;
@@ -33,7 +37,7 @@ int main(){
                 goto front;
             }
             case 3:
-            r = average();
+            r = average(r2,r3);
             if(r==0){
                 break;
             }
@@ -42,7 +46,7 @@ int main(){
             }
              
               case 4:
-            r = prime(9);  
+            r = prime(r2);  
             if(r==0){
                 break;
             }
