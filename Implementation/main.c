@@ -54,7 +54,6 @@ int main(){
                 goto front;
             }
       }
-
             front: 
 
              printf("1 - Simple Interest Operation\n");
