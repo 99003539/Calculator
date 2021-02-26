@@ -33,7 +33,8 @@ int main(){
     RUN_TEST(test_interest_2);
     RUN_TEST(test_leapyear_1);
     RUN_TEST(test_leapyear_2);
-    RUN_TEST(test_prime);
+    RUN_TEST(test_prime_1);
+     RUN_TEST(test_prime_2);
      
      
      
@@ -56,8 +57,13 @@ void test_leapyear_1(void){
 void test_leapyear_2(void){
 TEST_ASSERT_EQUAL(0,leapyear_test(2021));
 }
-void test_prime(void){
-     TEST_ASSERT_EQUAL(
+void test_prime_1(void){
+TEST_ASSERT_EQUAL(1,prime(5));
+}
+
+void test_prime_2(void){
+TEST_ASSERT_EQUAL(-1,prime(6));
+}
 
 
 
@@ -70,11 +76,7 @@ void test_prime(void){
 
 
 
-void test_prime(void)
- {
-   CU_ASSERT(-1 == prime(5));
-   CU_ASSERT(1 == prime(4));
- }
+
 
 
 
