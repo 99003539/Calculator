@@ -1,10 +1,9 @@
-#include <interest.h>
+#include "interest.h"
 int interest1(int x, float y, float z)
 {
     int n;
     float I;
    
-
     I = ((x*y*z)/100);
 printf("If you want to print the result press 1 or else press 2:");
     scanf("%d",&n);
