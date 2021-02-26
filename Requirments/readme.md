@@ -55,7 +55,7 @@ UML Activity Diagram for bitwise or:
 | It has all the formulas for counting process &amp; makes the counting process easier. | Chances of lacking individual&#39;s computational skills. |
 | It reduces time complexity. | Relying too much on calculator for counting can embarrass the users. |
 | Avoids the boredom in counting process. | Trying out the operations without having proper knowledge of it. |
-| It helps the users minimize the mathematical errors. | Chances of cheating is possible due to graphical calculators. |
+| It helps the users minimize the mathematical errors and error free. | Chances of cheating is possible due to graphical calculators. |
 |
  |
  |
