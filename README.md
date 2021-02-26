@@ -19,7 +19,7 @@ Team Summary
 Test Summary
 | Name  |  PS No |  Features |  Test cases  |Test cases passed  |
 |---|---|---|---|---|
-|  P Saikeerthi |   99003506(stepin104510) | Simple Interest | 2  | 2  |
+|  P Saikeerthi |   99003539(stepin104510) | Simple Interest | 2  | 2  |
 | name  | 990035  |  Trignometric function | 4 |  4 |
 |  name  |  99003510 |  Simple intrest |  2 |  2 |
 | name   |  99003511 | Power function  | 2  |  2 |
