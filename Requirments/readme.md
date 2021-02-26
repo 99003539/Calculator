@@ -1,25 +1,45 @@
 COST AND AGE:
 
-The Calculator we know today were first invented in the 1960’s. The use of smart phones as calculator began in 1990’s.
+The Calculator we know today were first invented in the 1960’s. The use of smart
+phones as calculator began in 1990’s.
 
-Several computing machines were made long before the arrival of digital calculator’s and smart phones. The abacus, for example, was used in the ancient near East, Europe, Russia, and China long before the adoption of the written Hindu-Arabic numeric system.
+Several computing machines were made long before the arrival of digital
+calculator’s and smart phones. The abacus, for example, was used in the ancient
+near East, Europe, Russia, and China long before the adoption of the written
+Hindu-Arabic numeric system.
 
 The Hewlett-Packard 9100A is an early programming calculator, first appearing in
 
-HP called it as a desktop calculator.
-The hp-34 was the Hewlett-Packard’s first pocket calculator and the world’s first scientific pocket calculator. A calculator with Trigonometric & Exponential functions. It was introduced in 1972
+    HP called it as a desktop calculator.
 
-The SR-50 was Texas instruments first scientific pocket calculator with Trigonometric & Logarithmic functions. It was introduced in 1974.
+The hp-34 was the Hewlett-Packard’s first pocket calculator and the world’s first
+scientific pocket calculator. A calculator with Trigonometric & Exponential
+functions. It was introduced in 1972
+
+The SR-50 was Texas instruments first scientific pocket calculator with
+Trigonometric & Logarithmic functions. It was introduced in 1974.
 
 Casio is a major player in the graphing calculator market. It was introduced in
 
-Notable features are its ability to graph functions and that it is
-programmable.
-Year Model Cost 1972 Texas TI 2500 $149. 1985 Casio fx-7000G $ 1988 Texas TI- 68 $ 1992 Texas TI- 85 $ 2020 Texas TI-30XS $18. DEFINING PRODUCT:
+    Notable features are its ability to graph functions and that it is
+    programmable.
 
-The advanced scientific calculator performs various operations ranging from calculating the sum, difference, product, division, bitwise or, bitwise and & xor of two numbers to calculating the factorial, power, square root, sine, cosine, tan,
+Year Model Cost
+1972 Texas TI 2500 $149.
+1985 Casio fx-7000G $
+1988 Texas TI- 68 $
+1992 Texas TI- 85 $
+2020 Texas TI-30XS $18.
+DEFINING PRODUCT:
 
-logarithmic values of a given number. It is equipped with a special feature to calculate the sum of all numbers till the given input number and also calculate the factorial of a given number. LOW LEVEL DESIGNS:
+The advanced scientific calculator performs various operations ranging from
+calculating the sum, difference, product, division, bitwise or, bitwise and & xor of
+two numbers to calculating the factorial, power, square root, sine, cosine, tan,
+
+logarithmic values of a given number. It is equipped with a special feature to
+calculate the sum of all numbers till the given input number and also calculate the
+factorial of a given number.
+LOW LEVEL DESIGNS:
 
 Flow chart for bitwise And:
 
@@ -28,40 +48,52 @@ UML Activity Diagram for bitwise and:
 Flowchart for bitwise or:
 
 UML Activity Diagram for bitwise or:
+| **Pros** | **Cons** |
+| --- | --- |
+| Calculator can solve complicated problems in an efficient manner. | People will be so dependent on using it for counting. |
+| It gives more accurate results. | Users will become &#39;LAZY&#39; because of usage of calculator. |
+| It has all the formulas for counting process &amp; makes the counting process easier. | Chances of lacking individual&#39;s computational skills. |
+| It reduces time complexity. | Relying too much on calculator for counting can embarrass the users. |
+| Avoids the boredom in counting process. | Trying out the operations without having proper knowledge of it. |
+| It helps the users minimize the mathematical errors. | Chances of cheating is possible due to graphical calculators. |
+|
+ |
+ |
 
-Pros	Cons
-Calculator can solve complicated problems in an efficient manner.	People will be so dependent on using it for counting.
-It gives more accurate results.	Users will become 'LAZY' because of usage of calculator.
-It has all the formulas for counting process & makes the counting process easier.	Chances of lacking individual's computational skills.
-It reduces time complexity.	Relying too much on calculator for counting can embarrass the users.
-Avoids the boredom in counting process.	Trying out the operations without having proper knowledge of it.
-It helps the users minimize the mathematical errors.	Chances of cheating is possible due to graphical calculators.
-| | |
+| **Simple Calculator** | **Scientific Calculator** |
+| --- | --- |
+| It can perform basic operations like add, sub, div and mul. | It can perform all the functions including specialized ones like trigonometry, log and exponential. |
+| It has smaller sized screen only. | It has both smaller sized and larger sized screen. |
+| Here we cannot develop a graph for the function. | Graphs can be developed for the functions performed. |
+| It is cost effective. | It is expensive comparatively. |
 
-Simple Calculator	Scientific Calculator
-It can perform basic operations like add, sub, div and mul.	It can perform all the functions including specialized ones like trigonometry, log and exponential.
-It has smaller sized screen only.	It has both smaller sized and larger sized screen.
-Here we cannot develop a graph for the function.	Graphs can be developed for the functions performed.
-It is cost effective.	It is expensive comparatively.
-SWOT ANALYSIS
+
+**SWOT ANALYSIS**
 
 | STRENGHTS
 
-User friendly
-Effciency
-| WEAKNESS
+- User friendly
+- Effciency
 
-Does not have more functions | | --- | --- | | OPPORTUNITIES
 
-Increased requirement in market place
+ | WEAKNESS
 
-Adaptation to develop the costumer rqeuirements
+- Does not have more functions
+ |
+| --- | --- |
+| OPPORTUNITIES
 
-| THREATS
+- Increased requirement in market place
+- Adaptation to develop the costumer rqeuirements
 
-Increase in number of competators
-|
-WWWWH
+
+ | THREATS
+
+- Increase in number of competators
+
+ |
+=======
+**WWWWH**
 
 WHY:
 
@@ -81,59 +113,67 @@ The calculator can be used whenever we want to perform any large arithmetic oper
 
 HOW:
 
-The main objective of the calculator is to perform the different types of operation efficiently without wasting of time in this busy world. Project name: - Scientific Calculator
+The main objective of the calculator is to perform the different types of operation efficiently without wasting of time in this busy world.
+**Project name: - Scientific Calculator**
 
-Requirement Analysis
+**Requirement Analysis**
 
-High Level Requirements
+- **High Level Requirements**
+  - Any calculator needs to have the highest speed and accuracy.
+  - The system should be multifunctional.
+  - The System should be user friendly and compact.
+  - The smart calculator&#39;s battery lifetime should be more.
+  - The precision value should be high.
 
-Any calculator needs to have the highest speed and accuracy.
-The system should be multifunctional.
-The System should be user friendly and compact.
-The smart calculator's battery lifetime should be more.
-The precision value should be high.
-Low Level Requirements
+- **Low Level Requirements**
 
-The speed of the calculator, it should give output within seconds.
+- The speed of the calculator, it should give output within seconds.
+- The system functions need to be specified and work properly.
+- The precision of the calculator should be more.
+- The functions taking take input and process the output within nanoseconds.
 
-The system functions need to be specified and work properly.
+**Requirement Mapping-**
 
-The precision of the calculator should be more.
+**High level**  **requirements-**
 
-The functions taking take input and process the output within nanoseconds.
+| **ID** | **Description** |
+| --- | --- |
+| 1 |Functions like averaging, interest,leap year, prime are used|
+| 2 | Precision should be high and speed should be in picoseconds |
+| 3 | The functions should be selected and should produce correct output. |
 
-Requirement Mapping-
-High level gvccevsrxdbctfnvygbuyjhgcbvtbgyhunji
+**Low level requirements-**
 
+| **ID** | **Description** |
+| --- | --- |
+| 1 | Symbols like +,-,\*,/ to carry out simple addition, substraction,multiplication and division to operations. |
+| 2 | Must accept numbers from 0 to 9. |
+| 3 | Calculator must be included with different calculation switching modes. |
 
+**Table : High and Low Level Requirements.**
 
-
-ID	Description
-1	Symbols like +,-,*,/ to carry out simple addition, substraction,multiplication and division to operations.
-2	Must accept numbers from 0 to 9.
-3	Calculator must be included with different calculation switching modes.
-Table : High and Low Level Requirements.
 
 ABSTRACT
 
-The advanced scientific calculator performs various operations ranging from calculating the sum, difference, product, division,bitwise Or, bitwise and, xor of two numbers to calculating the factorial, power ,square ,cube,sine,cosine,tan,abs,exponent and logarithm of a given number.
+The advanced scientific calculator performs various operations ranging from calculating the average of numbers,simple interest,finding the leap year,prime number.
+
 
 REQUIREMENTS
 
-SOFTWARE REQUIREMENTS ● Ubuntu 20.04
+SOFTWARE REQUIREMENTS
+● Ubuntu 20.04
 
 ● Github desktop
 
 ● Visual studio code
 
+
 FUNCTIONAL REQUIREMENTS
 
-ADD() & SUB(): These functions are used for adding and subtracting of the given numbers.
+- AVERAGE() : These functions are used for averaging of the given numbers.
 
-MUL() & DIV(): These functions are used for multiplication and division of the given numbers.
+- INTEREST() : This function is used to calculate the interest.
 
-LOG() ,LOG_BASE10(): These functions are used to calculate logarithm of a given number which uses the standard library math.h.
+- LEAPYEAR() : This function is used to calculate whether the year is leap year or not.
 
-POW(),ABS():These functions are used to calculate power and absolute of a given number which uses the standard library math.h.
-
-SIN(),COS(),TAN():These functions are used to calculate trigonometric function of a given number which uses the standard library math.h.
+-PRIME() : This function is used to calculate whether the number is prime number or not.
