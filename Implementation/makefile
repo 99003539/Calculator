@@ -1,4 +1,4 @@
-PROJECT_NAME = SDLC_Calculator
+PROJECT_NAME = Calculator
 
 BUILD = build
 
