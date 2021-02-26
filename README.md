@@ -2,7 +2,7 @@
 [![cppcheck-action](https://github.com/99003539/Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003539/Calculator/actions/workflows/c-cpp.yml)
 [![CI](https://github.com/99003539/Calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/99003539/Calculator/actions/workflows/ci.yml)
 [![Valgrind](https://github.com/99003539/Calculator/actions/workflows/valgrind1.yml/badge.svg)](https://github.com/99003539/Calculator/actions/workflows/valgrind1.yml)
-
+[![Unit testing](https://github.com/99003539/Calculator/actions/workflows/unit-test.yml/badge.svg)](https://github.com/99003539/Calculator/actions/workflows/unit-test.yml)
 
 
 Team Summary
