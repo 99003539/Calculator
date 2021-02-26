@@ -93,7 +93,7 @@ A machine is anything that reduces human effort. We use calculators so that we c
 
 WHAT:
 
-A calculator is a machine which allows people to do math operations more easily. For example, a normal calculator will add, subtract, multiply, and divide. Even our computer is a calculator. There are two types of electronic calculators, the simple one, with only the main functions of plus, minus, times and division, and sometimes a square root, and the scientific one, with many other functions too such as factorials, and cosine functions.
+A calculator is a machine which allows people to do math operations more easily. For example,normal calculator will add, subtract, multiply, and divide. Even our computer is a calculator. There are two types of electronic calculators, the simple one, with only the main functions of plus, minus, times and division, and sometimes a square root, and the scientific one, with many other functions too such as factorials, and cosine functions.
 
 WHERE:
 
