@@ -14,7 +14,7 @@ The Hewlett-Packard 9100A is an early programming calculator, first appearing in
 
 The hp-34 was the Hewlett-Packard’s first pocket calculator and the world’s first
 scientific pocket calculator. A calculator with Trigonometric & Exponential
-functions. It was introduced in 1972
+functions. It was first introduced in 1972
 
 The SR-50 was Texas instruments first the scientific pocket calculator with
 Trigonometric & Logarithmic functions. It was introduced in 1974.
