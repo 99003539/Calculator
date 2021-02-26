@@ -105,7 +105,7 @@ The calculator can be used whenever we want to perform any large arithmetic oper
 
 HOW:
 
-The main objective of the calculator is to perform the different types of operation efficiently without wasting of time in this busy world.
+The main objective of the calculator is to perform the different types of operation efficiently without wasting time in this busy world.
 **Project name: - Scientific Calculator**
 
 **Requirement Analysis**
