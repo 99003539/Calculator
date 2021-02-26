@@ -35,6 +35,8 @@ int average()
     }
     return 0;
 }
+
+
 int average1(signed int x)
     {
     int n,i;
@@ -85,4 +87,7 @@ int average_test(int n,int *a){
     }
     c=sum/n;
     return c;
+}
+int average_final(float a, float b) {
+    return (a+b)/2;
 }

@@ -43,7 +43,7 @@ TEST_ASSERT_EQUAL(-1,prime(6));
 
 void test_average(void){
     int a[5]={5,6,5,3,2};
-    TEST_ASSERT_EQUAL(4.2,average(5,3.4));
+    TEST_ASSERT_EQUAL(4.2,average_final(5,3.4));
 }
 
 int main(){
