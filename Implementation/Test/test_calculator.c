@@ -1,6 +1,7 @@
 #include<interest.h>
 #include<leapyear.h>
 #include<prime.h>
+#include<average_operations.h>
 
 
 
@@ -21,6 +22,7 @@ void test_interest_1(void);
 void test_interest_2(void);
 void test_leapyear(void);
 void test_prime(void);
+void test_average(void);
 
 
 void setUp(){}
@@ -35,7 +37,7 @@ int main(){
     RUN_TEST(test_leapyear_2);
     RUN_TEST(test_prime_1);
      RUN_TEST(test_prime_2);
-     
+     RUN_TEST(test_average);
      
      
      
@@ -65,7 +67,10 @@ void test_prime_2(void){
 TEST_ASSERT_EQUAL(-1,prime(6));
 }
 
-
+void test_average(void){
+    int a[5]={5,6,5,3,2};
+    TEST_ASSERT_EQUAL(4.2,average_test(5,&a));
+}
 
 
 
