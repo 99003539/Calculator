@@ -2,15 +2,17 @@
 #include<interest.h>
 #include<leapyear.h>
 #include<average_operations.h>
+#include<prime.h>
 
 int main(){
     int k, j=3;
-    int r,year;
+    int r,year,operand1;
     float r2;
     float r3;
     printf("Please select the number for the select function \n");
      printf("1 - Simple Interest Operation\n");
     printf("3 - average\n");
+    printf("4 - prime\n");
       scanf("%d", &k);
       switch(k){
             case 1:
@@ -38,6 +40,15 @@ int main(){
             else{
                 goto front;
             }
+             
+              case 4:
+            r = prime();
+            if(r==0){
+                break;
+            }
+            else{
+                goto front;
+            }
 
 
 
@@ -51,6 +62,7 @@ int main(){
 
              printf("1 - Simple Interest Operation\n");
               printf("3 - average\n");
+              printf("4 - prime\n");
              scanf("%d", &k);
               switch(k){
             case 1:
@@ -77,7 +89,7 @@ int main(){
                 printf("\n%d is a leap year");
                 goto front;
             }
-            case 3               
+            case 3:             
             r = average1(r);
             if(r==0){
                 break;
@@ -85,6 +97,10 @@ int main(){
             else{
                 goto front;
             }
+                    
+             case 4:
+               printf("Enter the prime:");        
+               
              
                       
                       
