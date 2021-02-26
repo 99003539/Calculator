@@ -1,5 +1,5 @@
-#ifndef __AVERAGE_OPERATIONS_H__
-#define __AVERAGE_OPERATIONS_H__
+#ifndef __AVERAGE_H__
+#define __AVERAGE_H__
 
 #include<stdio.h>
  int average();

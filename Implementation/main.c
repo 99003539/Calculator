@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<interest.h>
 #include<leapyear.h>
-#include<average_operations.h>
+#include<average.h>
 #include<prime.h>
 
 int main(){
@@ -42,7 +42,7 @@ int main(){
             }
              
               case 4:
-            r = prime();
+            r = prime();  
             if(r==0){
                 break;
             }
@@ -54,6 +54,7 @@ int main(){
             front: 
 
              printf("1 - Simple Interest Operation\n");
+
               printf("3 - average\n");
               printf("4 - prime\n");
              scanf("%d", &k);
@@ -93,7 +94,7 @@ int main(){
                     
              case 4:
             printf("\n\t %d \nEnter to continue");
-            prime(calculator_operand1));
+            prime(operand1);
 
             __fpurge(stdin);
             getchar();

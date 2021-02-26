@@ -1,15 +1,7 @@
 #include<interest.h>
 #include<leapyear.h>
 #include<prime.h>
-#include<average_operations.h>
-
-
-
-
-
-
-
-
+#include<average.h>
 #include "unity.h"
 
 #define PROJECT_NAME "Calculator"
@@ -37,12 +29,7 @@ int main(){
     RUN_TEST(test_leapyear_2);
     RUN_TEST(test_prime_1);
      RUN_TEST(test_prime_2);
-     RUN_TEST(test_average);
-     
-     
-     
-     
-     
+     RUN_TEST(test_average);     
      return UNITY_END();
 
 }
