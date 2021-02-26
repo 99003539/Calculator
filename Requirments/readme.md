@@ -84,31 +84,6 @@ UML Activity Diagram for bitwise or:
 - Increase in number of competators
 
  |
-
-**SWOT ANALYSIS**
-
-| STRENGHTS
-
-- User friendly
-- Effciency
-
-
- | WEAKNESS
-
-- Does not have more functions
- |
-| --- | --- |
-| OPPORTUNITIES
-
-- Increased requirement in market place
-- Adaptation to develop the costumer rqeuirements
-
-
- | THREATS
-
-- Increase in number of competators
-
- |
 =======
 **WWWWH**
 
