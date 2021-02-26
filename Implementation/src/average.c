@@ -1,4 +1,4 @@
-#include<average_operations.h>
+#include<average.h>
 int average1(int x);
 int average()
 {
