@@ -11,7 +11,7 @@ Team Summary
 |P Saikeerthi   |   99003539 |Simple Interest,UMLs for Simple Interest,SWOT analysis| 2  | 2  |
 |name  | 990035  |   | 1  |  1 |
 | name  |  990035 |  |  2 |  2 |
-| name  |  990035 |  | 2  |  2 |
+| K.N.S ANUSHA  |  99003547 |leap year,UML Diagrams for leap year,LOW LEVEL USE case diagrams,activity diagrams,4WWWW,H  | 2  |  2 |
 
 
 
