@@ -11,7 +11,7 @@ Team Summary
 |---|---|---|---|---|
 |P Saikeerthi   |   99003539 |Simple Interest,UMLs for Simple Interest,SWOT analysis| 2  | 2  |
 |Vinay H P  | 99003545  |Average of numbers, UMLs for average of numbers, Test plans   | 1  |  1 |
-| name  |  990035 |  |  2 |  2 |
+|Anurag Dangi |  99003544 | Finding weather the number is prime or not, Test Plans |  2 |  2 |
 | K.N.S ANUSHA  |  99003547 |leap year,UML Diagrams for leap year,LOW LEVEL USE case diagrams,activity diagrams,4WWWW,H  | 2  |  2 |
 
 
@@ -22,5 +22,5 @@ Test Summary
 |---|---|---|---|---|
 |  P Saikeerthi |   99003539(stepin104510) | Simple Interest | 2  | 2  |
 | Vinay H P  | 99003545  |Average of numbers   | 2 |  2 |
-|  name  |  99003510 |   |  2 |  2 |
+| Anurag Dangi |  99003544 | Prime Number  |  2 |  2 |
 | K.N.S ANUSHA   |  99003547(anushakurasala) | leapyear  | 2  |  2 |
