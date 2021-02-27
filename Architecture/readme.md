@@ -9,10 +9,10 @@ Prime Number Behavioural Diagram  -
 Prime Number structural Diagram-
 ![](https://github.com/99003539/Calculator/blob/main/Architecture/structural_diagram/prime.png)
 
-                                        Average Behavioural Diagram
+                                       Average Behavioural Diagram
 ![](https://github.com/99003539/Calculator/blob/main/Architecture/Behavioural_diagram/Average_behavioral.png)
 
-                                        Average Structural Diagram
+                                       Average Structural Diagram
 ![](https://github.com/99003539/Calculator/blob/main/Architecture/structural_diagram/Average_Structural.png) 
 
                                           use case diagram
