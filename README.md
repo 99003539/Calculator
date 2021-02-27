@@ -3,6 +3,7 @@
 [![CI](https://github.com/99003539/Calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/99003539/Calculator/actions/workflows/ci.yml)
 [![Valgrind](https://github.com/99003539/Calculator/actions/workflows/valgrind1.yml/badge.svg)](https://github.com/99003539/Calculator/actions/workflows/valgrind1.yml)
 [![Unit testing](https://github.com/99003539/Calculator/actions/workflows/unit-test.yml/badge.svg)](https://github.com/99003539/Calculator/actions/workflows/unit-test.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8da79ff2b5e34b62a0474e4957b41b73)](https://www.codacy.com/gh/99003539/Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99003539/Calculator&amp;utm_campaign=Badge_Grade)
 
 
 Team Summary
