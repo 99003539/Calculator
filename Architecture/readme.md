@@ -18,3 +18,6 @@ Prime Number structural Diagram-
                                           use case diagram
 ![](https://github.com/99003539/Calculator/blob/main/Architecture/structural_diagram/use%20case.PNG)
 
+                                          activity diagram
+![](https://github.com/99003539/Calculator/blob/main/Architecture/structural_diagram/acticity.PNG)
+
