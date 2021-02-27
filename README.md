@@ -9,7 +9,7 @@
 Team Summary
 | Name  |  PS No |  Features |  Issue Raised  |Issue Resolved   |
 |---|---|---|---|---|
-|P Saikeerthi   |   99003539 |Simple Interest,UMLs for Simple Interest,SWOT analysis| 2  | 2  |
+|P Saikeerthi   |   99003539 |Simple Interest,UMLs for Simple Interest,SWOT analysis| 1  | 1  |
 |Vinay H P  | 99003545  |Average of numbers, UMLs for average of numbers, Test plans   | 1  |  1 |
 |Anurag Dangi |  99003544 | Finding weather the number is prime or not, UML Diagrams ,Test Plans |  2 |  2 |
 | K.N.S ANUSHA  |  99003547 |leap year,UML Diagrams for leap year,LOW LEVEL USE case diagrams,activity diagrams,4WWWW,H  | 2  |  2 |
