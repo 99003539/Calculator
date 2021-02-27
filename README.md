@@ -21,6 +21,6 @@ Test Summary
 | Name  |  PS No |  Features |  Test cases  |Test cases passed  |
 |---|---|---|---|---|
 |  P Saikeerthi |   99003539(stepin104510) | Simple Interest | 2  | 2  |
-| Vinay H P  | 99003545  |   | 2 |  2 |
+| Vinay H P  | 99003545  |Average of numbers   | 2 |  2 |
 |  name  |  99003510 |   |  2 |  2 |
 | K.N.S ANUSHA   |  99003547(anushakurasala) | leapyear  | 2  |  2 |
