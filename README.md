@@ -24,3 +24,13 @@ Test Summary
 | Vinay H P  | 99003545  |Average of numbers   | 2 |  2 |
 | Anurag Dangi |  99003544 | Prime Number  |  2 |  2 |
 | K.N.S ANUSHA   |  99003547(anushakurasala) | leapyear  | 2  |  2 |
+
+
+
+Challenges Faced
+
+    
+          1.Cpp check and Unity testing.
+
+
+
